@@ -1,0 +1,4 @@
+Total status codes: 2
+Total 2XX status codes: 2
+Total 4XX status codes: 0
+Total 5XX status codes: 0
